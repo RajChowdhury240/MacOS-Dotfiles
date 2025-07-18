@@ -6,6 +6,9 @@ My Mac's Dotfiles
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ad8b70ba-8622-4225-bac2-6d1120b2e540" />
 
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3e5fd821-28b1-4d76-9433-b33bf5e57552" />
+
+
 to reapply my configs just go to
 ```bash
 cd .config
