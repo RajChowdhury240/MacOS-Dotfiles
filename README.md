@@ -14,6 +14,9 @@ My Mac's Dotfiles
 ### Warp
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3e5fd821-28b1-4d76-9433-b33bf5e57552" />
 
+### Kitty
+<img width="3360" height="2100" alt="image" src="https://github.com/user-attachments/assets/28bc3217-c3ae-4267-badd-2fc19128ea46" />
+
 
 to reapply my configs just go to
 ```bash
