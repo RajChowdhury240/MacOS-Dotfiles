@@ -1,12 +1,27 @@
 # foreground = c0caf5
 # background = 000000
 
+
+
+
 theme = Dark Pastel
-font-size = 15
+
+
+
+
+font-size = 16
+
 font-family = "JetBrainsMonoNL Nerd Font Mono"
 
+
 confirm-close-surface = false
+
 background-blur = true
-window-decoration = false
+
+#window-decoration = true
 background-opacity = .75
+
 background-blur-radius = 40
+macos-titlebar-style = hidden
+
+background-blur-radius = 10
